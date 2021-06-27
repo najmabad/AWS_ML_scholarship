@@ -1,5 +1,6 @@
 # AWS Machine Learning scholarship
 AWS Machine Learning Foundations Nanodegree Program (Udacity)
+
 [Course Dashboard](https://classroom.udacity.com/nanodegrees/nd065/dashboard/overview)
 
 ## Fundation Course
